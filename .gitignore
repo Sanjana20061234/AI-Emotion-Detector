@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
+~$*.doc
+~$*.docx
+emotion_log.txt

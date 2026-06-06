@@ -1,0 +1,34 @@
+=============================================
+       AI EMOTION SESSION SUMMARY
+=============================================
+Total Time       : 00m 33s
+Total Detections : 58
+Avg Confidence   : 72%
+Dominant Mood    : SAD
+
+Emotion Breakdown:
+  angry     :   6.9%  #
+  happy     :   1.7%  
+  sad       :  75.9%  ###############
+  surprise  :   0.0%  
+  neutral   :  15.5%  ###
+
+=============================================
+       PERFORMANCE METRICS SUMMARY
+=============================================
+Emotion       Precision   Recall  F1-Score  Accuracy
+----------------------------------------------------
+Angry             0.000    0.000     0.000     0.931
+Happy             0.000    0.000     0.000     0.983
+Sad               0.795    0.795     0.795     0.845
+Surprise          0.000    0.000     0.000     1.000
+Neutral           0.667    0.667     0.667     0.948
+----------------------------------------------------
+Macro Avg         0.292    0.292     0.292
+
+Overall Accuracy (conf>=70%): 70.7%
+=============================================
+ * Note: Metrics use confidence-threshold method.
+   Detections with conf >= 70% count as True Positives.
+   Uncertain detections are treated as False Positives.
+=============================================
