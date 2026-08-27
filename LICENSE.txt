@@ -1,0 +1,23 @@
+=======================================================
+   AI MULTIMODAL EMOTION DETECTION SYSTEM - LICENSE
+   Copyright (c) 2026 Sanjana
+   GitHub: https://github.com/Sanjana20061234
+=======================================================
+
+VIEWING PERMISSION:
+This source code is made publicly visible for portfolio
+and academic verification purposes only.
+
+STRICTLY PROHIBITED:
+1. Copying this code for academic submissions
+2. Reusing this code in your own projects
+3. Redistributing this code in any form
+4. Submitting this code as your own work
+5. Using this code commercially without permission
+
+ACADEMIC NOTE:
+This project was developed as an original B.Tech CSE
+final year project at UEM Jaipur (2022-2026).
+Unauthorized copying constitutes academic misconduct.
+
+LEGAL
