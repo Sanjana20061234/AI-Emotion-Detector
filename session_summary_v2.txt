@@ -1,0 +1,28 @@
+==================================================
+  MULTIMODAL AI EMOTION SYSTEM v2.0 - SESSION
+==================================================
+Total Time    : 00m 46s
+Total Detects : 32
+Avg Confidence: 73%
+Dominant Mood : NEUTRAL
+
+Emotion Breakdown:
+  angry     :   0.0%  
+  happy     :   0.0%  
+  sad       :   9.4%  #
+  surprise  :   0.0%  
+  neutral   :  81.2%  ################
+  fear      :   9.4%  #
+  disgust   :   0.0%  
+
+Emotion             P        R       F1      Acc
+------------------------------------------------
+Angry           0.000    0.000    0.000    1.000
+Happy           0.000    0.000    0.000    1.000
+Sad             0.000    0.000    0.000    0.906
+Surprise        0.000    0.000    0.000    1.000
+Neutral         0.577    0.577    0.577    0.656
+Fear            0.000    0.000    0.000    0.906
+Disgust         0.000    0.000    0.000    1.000
+------------------------------------------------
+Macro Avg       0.082    0.082    0.082

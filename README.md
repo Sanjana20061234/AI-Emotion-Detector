@@ -1,3 +1,16 @@
+## 🚀 Version 2.0 Updated - Multimodal System
+
+### New Features in v2.0
+- Multi-face detection (up to 6 faces simultaneously)
+- Age & Gender detection per face
+- Audio-Visual emotion fusion (Face 70% + Audio 30%)
+- 7 emotion classes (added Fear and Disgust)
+- Smart context-aware alerts
+- Full multi-panel HUD with side panel
+
+### Run v2.0
+python main_v2.py                       
+
 # AI Face Emotion Detection System
 
 ## Description
